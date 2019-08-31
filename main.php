@@ -20,7 +20,7 @@
   <body>
     <center>
     <table align="center" >
-	<img src="drink.png"> 
+    <img src="drink.png" width="10%"> 
       <tr> 		
 		<td align="center"  >
           <a href="modify.php">修改會員資料</a>

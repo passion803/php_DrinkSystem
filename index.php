@@ -19,7 +19,7 @@
   <body>    
   <center>
     <table align="center">
-	<img src="drink.png"> 
+	<img src="drink.png" width="10%"> 
     <form action="checkpwd.php" method="post" name="myForm">      
 	  <tr>
         <th colspan="5">A飲料店會員登入系統</th>

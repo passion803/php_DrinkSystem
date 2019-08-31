@@ -55,7 +55,7 @@
   <body bgcolor="#FFFFFF">
     <center>
     <table align="center">
-	<img src="drink.png"> 
+    <img src="drink.png" width="10%"> 
      <tr>
         <th colspan="5">恭喜您已經註冊成功了，您的資料如下：（請勿按重新整理鈕）<br>
       帳號：<font color="#FF0000"><?php echo $account ?></font><br>

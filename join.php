@@ -49,7 +49,7 @@
   <body>
     <center>
     <table align="center">
-	<img src="drink.png"> 
+    <img src="drink.png" width="10%"> 
     <form action="addmember.php" method="post" name="myForm">
       <table border="2" align="center" bordercolor="#007799">        
 		<tr> 

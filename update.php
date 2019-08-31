@@ -47,7 +47,7 @@
   <body bgcolor="#FFFFFF">
     <center>
       <table align="center">
-	<img src="drink.jpg"> 
+      <img src="drink.png" width="10%"> 
            <tr><th colspan="5">
            <?php echo $name ?>恭喜您已經成功修改會員資料。</th></tr>
            <tr> 		

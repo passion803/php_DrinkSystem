@@ -39,7 +39,7 @@
   <body bgcolor="#FFFFFF">
     <center>
       <table align="center">
-	<img src="drink.jpg"> 
+      <img src="drink.png" width="10%"> 
            <tr><th colspan="5">
            刪除會員資料成功!您的資料已從本站中刪除，若要再次使用本站台服務，請重新申請，謝謝。</th></tr>
            <tr> 		

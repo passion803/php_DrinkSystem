@@ -21,7 +21,7 @@
   <body>
     <center>
     <table align="center">
-	<img src="drink.png"> 
+    <img src="drink.png" width="10%"> 
     <?php
       require_once("dbtools.inc.php");
 			
@@ -73,7 +73,7 @@
       {
         echo "<tr bgcolor='" . $bg[$j - 1] . "'>";
         echo "<th >" . $row["drink_date"] . "</th>";
-	echo "<th >" . $row["drink_name"] . "</th>";
+	      echo "<th >" . $row["drink_name"] . "</th>";
         echo "<th >" . $row["price"] . "</th></tr>";
         $j++;
       }
